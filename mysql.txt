@@ -1,0 +1,7 @@
+cd mysql 
+cd bin 
+mysql-u root -p
+show databases;
+create Database hospital;
+use hospital;
+show tables;
